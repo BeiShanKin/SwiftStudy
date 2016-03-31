@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:SwiftProject"
+      name = "SwiftProject">
+      <Group
+         location = "group:SwiftClassAndStruct"
+         name = "SwiftClassAndStruct">
+         <Group
+            location = "group:SwiftClassAndStruct"
+            name = "SwiftClassAndStruct">
+            <FileRef
+               location = "group:AppDelegate.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewController.swift">
+            </FileRef>
+            <Group
+               location = "group:Base.lproj"
+               name = "Base.lproj">
+               <FileRef
+                  location = "group:LaunchScreen.storyboard">
+               </FileRef>
+               <FileRef
+                  location = "group:Main.storyboard">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:SwiftClassAndStruct.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:SwiftClassAndStructTests"
+            name = "SwiftClassAndStructTests">
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:SwiftClassAndStructTests.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:SwiftClassAndStructUITests"
+            name = "SwiftClassAndStructUITests">
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:SwiftClassAndStructUITests.swift">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+</Workspace>
